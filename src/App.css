@@ -1,0 +1,12 @@
+.boardRow {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.square {
+    padding: 15px;
+    font-weight: bold;
+    font-size: large;
+    
+}
